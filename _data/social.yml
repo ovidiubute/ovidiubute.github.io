@@ -1,27 +1,27 @@
 # Icons on the footer
 rss: true
-email_address:    # Full email address, e.g. "sam@example.com"
+email_address: ovidiu.bute@protonmail.com # Full email address, e.g. "sam@example.com"
 behance:
 bitbucket:
 dribbble:
 facebook:
 flickr:
 gitlab:
-github: "sylhare"
+github: "ovidiubute"
 instagram:
 keybase:
-linkedin:         # Full URL
+linkedin: https://www.linkedin.com/in/ovidiubute/ # Full URL
 pinterest:
-reddit:
+reddit: https://www.reddit.com/user/ledovi
 soundcloud:
 stack_overflow:
-stack_exchange:   # Full URL
+stack_exchange: https://stackoverflow.com/users/515155/ovidiu-bute # Full URL
 steam:
 tumblr:
-twitter:          # "twitter username"
+twitter: ovidiubute # "twitter username"
 vimeo:
 wordpress:
-youtube:          # Youtube channel token like: UCqECaJ8Gagnn7YCbPEzWH6g
+youtube: # Youtube channel token like: UCqECaJ8Gagnn7YCbPEzWH6g
 
 # rss specify feed path
 feed:
@@ -35,6 +35,6 @@ share:
   pinterest:
   pocket:
   reddit: true
-  linkedin:
+  linkedin: true
   wordpress:
   email: true
